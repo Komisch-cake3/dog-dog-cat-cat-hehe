@@ -18,3 +18,22 @@ header{
     top: 50px;
     left: 590px;
 }
+
+.start{
+    color: white;
+    font-size: 50px;
+    position:relative;
+    left: 33px;
+    top: 20px;
+}
+
+.button{
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    background-color: bisque;
+}
+
+.button:hover{
+    scale: 1.1;
+}
