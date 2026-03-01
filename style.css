@@ -32,6 +32,9 @@ header{
     width: 100px;
     border-radius: 50px;
     background-color: bisque;
+    position:relative;
+    left: 670px;
+    top: 300px;
 }
 
 .button:hover{
